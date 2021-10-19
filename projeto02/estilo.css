@@ -1,0 +1,22 @@
+#moda{
+	background-color: #B53471;
+}
+.praia{
+	background-color: #FFC312;
+}
+#cab{
+ margin:auto;
+
+ border:solid 3px red;
+ height:60px;
+ width: 80%;
+ background-color: #1289A7;
+
+ text-align: center;
+}
+#corpo{
+    background-image: url("imagens/background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
